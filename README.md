@@ -1,4 +1,4 @@
-# Image Card
+# Image Card (holiday)
 
 ****
 
@@ -33,12 +33,13 @@ Styling the image card using ***box-sizing, background-color, margin, padding, b
 - ***flex properties*** - Designating how an item/element will shrink or grow to fit the available space in a flex container. These include **flex-direction** (for setting either in row or column format) **flex-wrap** (to set whether the content will remain in one line or be "wrapped" into multi-lines), **justify-content** (distributing space between and around an element), **align-items** (aligns items either on the cross-axis or block-axis).
 - ***media queries*** - For setting display of content on different divices.
 
-## Images
+## Images[^1]
+
+[^1]: Images from **W3 Schools**
 
 ![img_5terre](/holiday/images/img_5terre.jpg)
 ![img_corniglia](/holiday/images/img_corniglia.jpg)
 ![img_manarola](/holiday/images/img_manarola.jpg)
 ![img_monterosso](/holiday/images/img_monterosso.jpg)
 ![img_riomaggiore](/holiday/images/img_riomaggiore.jpg)
-![img_vernazza](/holiday/images/img_vernazza.jpg) [^1]
-[^1]: Images from **W3 Schools**
+![img_vernazza](/holiday/images/img_vernazza.jpg)
