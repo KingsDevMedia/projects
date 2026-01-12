@@ -77,8 +77,11 @@ article {
     padding: 0% 3%;
 }
 
+footer > section {
+    color:#474747;
+}
 
-/* BORDER LINES
+/* BORDER LINES */
 main {
     border:red solid 5px;
 
@@ -89,4 +92,15 @@ article, div {
 }
 .band_img {
     border:green solid 4px;
-} */
+}
+
+footer {
+    border: pink solid 4px;
+}
+footer > section {
+    border: purple solid 4px;
+}
+
+footer > section > h4, p {
+    border: red dotted 4px;
+}
